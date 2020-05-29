@@ -25,7 +25,7 @@ npm run dev
  <li>npm</li>
  <li>Nodemon</li>
  <li>Express.js</li>
- <li>JSON-Web-Tokens</li>
+ <li>JSON-Web-Token</li>
  <li>BcryptJS</li>
  <li>Mongoose</li>
  <li>Validator</li>
