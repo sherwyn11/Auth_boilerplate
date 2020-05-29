@@ -27,18 +27,11 @@ router.post('/signup', async(req, res) => {
         })
 
         await user.save()
-        .then(async () => {
-            const user = await User.findUserByCredentials(email, password);
-            const token = await user.generateAuthToken();            
-            res.status(200).send('Data saved successfully!\n Token Generated: ' + token);
-        })
-        .catch((e) => {
-            res.status(401).send(e.name + ': ' + e.errmsg);
-        });
+        const token = await user.generateAuthToken();            
+        res.status(200).send('Data saved successfully!\n Token Generated: ' + token);
         
-
     }catch(e){
-        throw new Error('Some error occurred!');
+        res.status(500).send(e);
     }
 });
 
