@@ -32,5 +32,11 @@ npm run dev
  <li>Postman(For testing)</li>
 </ul>
 
+# License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[MIT License Link](https://github.com/sherwyn11/Auth_boilerplate/blob/master/LICENSE)
+
 <br></br>
 © 2020 Sherwyn D'souza
