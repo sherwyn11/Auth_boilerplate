@@ -12,7 +12,7 @@ git clone https://github.com/sherwyn11/Auth_boilerplate.git
 ```bash
 npm install
 ```
-3. Start up your mongoDB
+3. Start your mongoDB
 
 4. Start the server
 ```bash
