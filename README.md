@@ -10,6 +10,7 @@ git clone https://github.com/sherwyn11/Auth_boilerplate.git
 ```
 2. Download required npm packages
 ```bash
+cd Auth_boilerplate
 npm install
 ```
 3. Start your MongoDB Server
