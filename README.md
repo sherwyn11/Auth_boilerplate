@@ -1,8 +1,8 @@
 # Auth_boilerplate
 
- ### A token-based user authentication boilerplate for Node.js using JWT
+A token-based user authentication boilerplate for Node.js using JWT
 
-# Getting Started
+## Getting Started
 
 1. Clone the repository
 ```bash
@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-# Dependencies
+## Dependencies
 <ul>
  <li>Node.js</li>
  <li>npm</li>
@@ -33,7 +33,7 @@ npm run dev
  <li>Postman(For testing)</li>
 </ul>
 
-# License
+## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
