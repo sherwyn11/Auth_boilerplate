@@ -1,6 +1,6 @@
 # Auth_boilerplate
 
-A token-based user authentication boilerplate for Node.js using JWT
+A token-based user authentication boilerplate for Node.js using Express.js and JWT
 
 ## Getting Started
 
